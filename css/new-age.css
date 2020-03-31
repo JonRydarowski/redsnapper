@@ -20,7 +20,7 @@ a {
 }
 
 a:hover, a:focus {
-  color: #fcbd20;
+  color: #421845;
 }
 
 hr {
@@ -76,7 +76,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-  color: #fcbd20;
+  color: #421845;
 }
 
 #mainNav .navbar-toggler {
